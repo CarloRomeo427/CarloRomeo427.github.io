@@ -48,7 +48,7 @@ Best Classes: Necromancer (why not), Cleric Death Domain (heals you, bonks them)
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
   <a href="https://github.com/CarloRomeo427/ARC_RL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloRomeo427&repo=ARC_RL&theme=default&show_icons=true" alt="ARC_RL GitHub Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloRomeo427&repo=ARC_RL&theme=default&show_icons=true&cache_seconds=1800" alt="ARC_RL GitHub Card" />
   </a>
   <a href="https://github.com/CarloRomeo427/NTRL.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloRomeo427&repo=NTRL&theme=default&show_icons=true" alt="NTRL GitHub Card" />
