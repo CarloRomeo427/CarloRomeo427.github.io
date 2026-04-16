@@ -28,19 +28,19 @@ latest_posts:
 
 Hi everyone, this is Carlo!
 
-I am an AI Researcher, Machine Learning Engineer, and a **Ph.D. Candidate** in Artificial Intelligence at the University of Pisa and the University of Florence (MICC). My research focuses heavily on **Reinforcement Learning**, specifically exploring offline RL, computational efficiency, and how to train agents in severely data-scarce environments. 
-
-Before fully committing to my Ph.D., I worked in the industry as a Machine Learning Engineer (at Relatech and Accenture), where I built and deployed production-level anomaly detection models and recommendation systems. Recently, I also expanded my research as a Visiting Ph.D. Researcher at the Computer Vision Center (CVC) in Barcelona, diving into Transformers and token pruning. 
-
+I am an AI Researcher, Machine Learning Engineer, and a **Ph.D. Candidate** in Artificial Intelligence at the University of Florence (Med). My research focuses heavily on **Reinforcement Learning**, specifically exploring offline RL, computational efficiency, and how to train agents in severely data-scarce environments. 
 I was born in the beautiful **Reggio Calabria**, the southernmost city of the Italian peninsula, where I earned my B.Sc. and M.Sc. in **Information and Communication Technology Engineering** (ICT) at the Mediterranea University. 
 
-The reasons behind my studies are deeply rooted in my childhood. I had a **notebook** where I obsessively designed things like plasma cannons, spaceships, lightsabers, and robots. At that point, it became clear to me that I was meant for a life in engineering! Have you ever heard about **Alan Turing**? Questions such as "Can machines ever be able to think?" and "What can humanity achieve thanks to machines?" keep me glued to my chair for hours every day. Reinforcement Learning is my way of studying intelligence, decision-making, and motor control, looking for a way to reproduce and enhance them—especially with the dream of bringing these complex behaviors into the video game industry.
+Before fully committing to my Ph.D., I worked in the industry as a Machine Learning Engineer, where I built and deployed production-level anomaly detection models and recommendation systems. Recently, I also expanded my research as a Visiting Ph.D. Researcher at the Computer Vision Center (CVC) in Barcelona.
+
 
 ### What else about me?
-- 🧙‍♂️ **The Lord of the Rings:** A lifelong fan. After years of movie marathons and wiki-scraping, I am finally reading the books. *If Gondor calls for aid, Rohan will answer.*
-- 🎮 **Video Games:** A relentless gamer since I got my PS1 in Christmas '99. I thrive on brutal challenges, which naturally makes me a massive Souls-like addict.
-- 🥁 **Drums:** Swapped my guitar for drumsticks. After years of practicing fills by hitting sofa pillows, I finally got a real drum kit this year. I wanna rock!
+- 🧙‍♂️ **The Lord of the Rings:** No words needed, except fo:.  *Not all those who wander are lost.*
+- 🎮 **Video Games:** A relentless gamer since I got my PS1 in Christmas '99. I thrive on brutal challenges, which naturally makes me a massive Souls-like player. 
+Favourite games: Dark Souls, Shadow of the Colossus, Red Dead Redemption (I + II), Dino Crisis 2, Assassin's Creed 2, Ape Escape, Resident Evil 4, and Pokemon Yellow.
 - 🎲 **Dungeons & Dragons:** Recently rolled my first D20 and got completely hooked. Now I’m hoarding manuals, rolling dice, and bringing fantasy stories to life with my friends.
+Best Classes: Necromancer (why not), Cleric Death Domain (the older and caring brother with big bonks), Dual-wielding Dark Elf Ranger (if you know what I mean).
+
 
 ---
 
@@ -49,5 +49,11 @@ The reasons behind my studies are deeply rooted in my childhood. I had a **noteb
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
   <a href="https://github.com/CarloRomeo427/ARC_RL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloRomeo427&repo=ARC_RL&theme=default&show_icons=true" alt="ARC_RL GitHub Card" />
+  </a>
+  </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+  <a href="https://github.com/CarloRomeo427/NTRL.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloRomeo427&repo=NTRL&theme=default&show_icons=true" alt="NTRL GitHub Card" />
   </a>
   </div>
